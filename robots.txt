@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://grandcanyon.webart.work/sitemap.xml
+Sitemap: https://grandcanyon.hotelup.work/sitemap.xml
